@@ -1,0 +1,3 @@
+FROM eboraas/apache
+COPY  /home/bob/mysite/index.html /var/www/html/
+
